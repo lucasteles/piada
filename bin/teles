@@ -14,7 +14,7 @@ http.request(
         console.error("Erro!");
         process.exit(1);
       } else {
-	  	console.log(JSON.parse(body).joke);
+	  	console.log(JSON.parse(body).joke.replace("||","\n"));
       }
     });
   } else {

@@ -1,6 +1,6 @@
 {
   "name": "teles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Piadas aleatórias via linha de comando.",
   "bin": {
     "teles": "./bin/teles"
