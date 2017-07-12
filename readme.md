@@ -1,15 +1,12 @@
-# piada
+# teles jokes
 
-> Piadas aleatórias via linha de comando.
+> Piadas via linha de comando.
 
-:warning: Requer internet para funcionar.
-
-Todas as piadas são extraídas do site &lt;[http://aspiadas.com/](http://aspiadas.com/randomjoke.php)&gt;.
 
 ## Instalação
 
 ```
-$ npm install --global piada
+$ npm install --global 
 ```
 
 ## Exemplo
